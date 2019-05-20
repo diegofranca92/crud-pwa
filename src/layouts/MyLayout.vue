@@ -39,11 +39,11 @@
         </q-item>
 
         <q-list-header class="q-headline text-weight-medium text-white">Cadastro</q-list-header>
-        <q-item to="addProdutos" class="text-white">
+        <q-item to="produtos" class="text-white">
           <q-item-side class="text-white" icon="add_shopping_cart" />
           <q-item-main label="Produtos" sublabel="Adicionar Produtos" />
         </q-item>
-        <q-item to="addClientes" class="text-white">
+        <q-item to="clientes" class="text-white">
           <q-item-side class="text-white" icon="assignment_ind" />
           <q-item-main label="Clientes" sublabel="Adicionar Clientes" />
         </q-item>
